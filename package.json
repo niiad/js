@@ -1,0 +1,19 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nii-Adotei/js.git"
+  },
+  "author": "Nii Adotei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nii-Adotei/js/issues"
+  },
+  "homepage": "https://github.com/Nii-Adotei/js#readme"
+}
